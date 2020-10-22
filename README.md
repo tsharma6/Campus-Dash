@@ -1,1 +1,2 @@
 # Campus-Dash
+Campus Dash is an application that is designed for college students, professors, and employees. It can be registered as the customer or the courier/buyer. For the customer side, it includes the functionalities as task posting, status tracking, payment, chatting, and review. For the courier/buyer side, there are services like task displaying, status reporting, reward, etc. It’s a C2C application that helps busy students and professors saving their time while they can also make easy extra money doing the delivery tasks for the others
